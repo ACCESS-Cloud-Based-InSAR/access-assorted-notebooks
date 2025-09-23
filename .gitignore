@@ -25,3 +25,10 @@ experimental/
 
 # Jupyter files
 *.ipynb_checkpoints
+
+# Netcdf files
+*.nc
+*.xml
+
+**/ipynb_checkpoints/
+**/__pycache__/
